@@ -1,0 +1,30 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "Mean stack application",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archie97/mean-stack.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Arjun Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archie97/mean-stack/issues"
+  },
+  "homepage": "https://github.com/Archie97/mean-stack#readme"
+}
